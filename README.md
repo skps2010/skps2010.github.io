@@ -92,8 +92,30 @@
 [【彼】he](data/308.pdf)  
 [【吼】háu](data/309.pdf)  
 [【遐】hia](data/309.pdf)  
+[【後生】hāu-senn/hāu-sinn](data/310.pdf) 
+[【遐的】hia--ê](data/310.pdf) 
+[【喙】tshuì](data/311.pdf) 
+[【照起工】tsiàu-khí-kang](data/311.pdf) 
+[【燃】hiânn](data/312.pdf) 
+[【現】hiān](data/312.pdf) 
+[【媠】suí](data/313.pdf) 
+[【姑不而將】koo-put-jî-tsiong](data/313.pdf) 
+[【傷】siunn/sionn](data/314.pdf) 
+[【猶】iáu](data/314.pdf) 
+[【代誌】tāi-tsì](data/315.pdf) 
+[【現出】hiàn-tshut](data/315.pdf) 
+[【雄雄】hiông-hiông](data/316.pdf) 
+[【鬥】tàu](data/316.pdf) 
+[【加】ka](data/317.pdf) 
+[【明仔載】bîn-á-tsài/miâ-á-tsài/bîn-nà-tsài](data/317.pdf) 
+[【蓋】kah](data/318.pdf) 
+[【欲】beh/bueh/berh](data/318.pdf) 
+[【今】tann](data/319.pdf) 
+[【較停仔】khah-thîng(-á)](data/319.pdf) 
 
 
 ### 來源
 資料來源（連結中指向的所有 PDF 檔）皆來自教育部，我並沒有做出任何修改。而此網站皆由我所製作，與教育部無關。  
 本著作係採用創用CC「姓名標示-非商業性-禁止改作」 2.5 臺灣版授權條款釋出。創用CC詳細內容請見: http://creativecommons.org/licenses/by-nc-nd/2.5/tw/
+
+字體是使用台灣宋體，作者為烏衣行，來源： www.wesingkasu.blogspot.tw
