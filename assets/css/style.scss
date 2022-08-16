@@ -8,9 +8,6 @@
     src: url('font/台灣宋體 20181201烏衣行.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 }  
 
-body {
+#main_content {
     font-family: "Taigi"; /* 留意字體名稱 */
-    font-weight: 310; /* 250 至 900 之間的任一數值 */
-    font-style: normal; /* normal （正體）或 italic（斜體） */
-    font-variation-settings: "PADG" 4; /* 0 至 10 之間的任一數值 */
 }
