@@ -6,5 +6,5 @@ for i in range(340, 545):
     for j in range(fileReader.numPages):
         texts = fileReader.getPage(j).extractText().split('\n')
         for text in texts:
-            if '【' in  text:
+            if '【' in text:
                 print(f'[{text}](data/{i}.pdf)  ')

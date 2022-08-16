@@ -1,8 +1,10 @@
+## 說明
 此為教育部臺灣閩南語推薦用字的用字原則，原本可在教育部的網站找到，但現在似乎不行了。由於用字說明的資料檔還存在，我就把他們下載下來自己整理。
 
 以下資料依照字數與台羅的字典序排列。
 
 本網頁由我（盧昭華）製作
+
 ### 連結
 [【尪】ang](data/275.pdf)  
 [【翁】ang](data/275.pdf)  
@@ -449,19 +451,19 @@
 [【交懍恂 】ka-lún-sún/ka-líng-sún ](data/424.pdf)  
 [【跤頭趺】kha-thâu-u ](data/447.pdf)  
 [【較停仔】khah-thîng(-á)](data/319.pdf)  
+[【齒戳（仔）】khí-thok(-á) ](data/438.pdf)  
 [【老歲仔】lāu-huè-á](data/285.pdf)  
 [【磅米芳】pōng-bí-phang ](data/438.pdf)  
 [【相借問】sio-tsioh-mn̄g ](data/437.pdf)  
+[【小可(仔)】sió-khuá(-á)](data/303.pdf)  
+[【四秀（仔）】sì-siù(-á) ](data/498.pdf)  
 [【笑咍咍】tshiò-hai-hai ](data/387.pdf)  
 [【草蜢仔】tsháu-meh-á ](data/417.pdf)  
 [【照起工】tsiàu-khí-kang ](data/311.pdf)  
+[【一寡（仔）】tsi̍t-kuá（-á） ](data/354.pdf)  
 [【鬥相共】tàu-sann-kāng ](data/409.pdf)  
-[【姑不而將】koo-put-jî-tsiong ](data/313.pdf)  
-[【齒戳（仔）】khí-thok(-á) ](data/438.pdf)  
-[【小可（仔）】sió-khuá(-á) ](data/303.pdf)  
-[【四秀（仔）】sì-siù(-á) ](data/498.pdf)  
-[【一寡（仔）】tsi̍t-kuá（-á）](data/354.pdf)  
 [【淡薄（仔）】tām-po̍h(-á) ](data/510.pdf)  
+[【姑不而將】koo-put-jî-tsiong](data/313.pdf) 
 
 ### 來源
 資料來源（連結中指向的所有 PDF 檔）皆來自教育部，我並沒有做出任何修改。此為原始檔案之一的連結：https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia468pdf.pdf  
