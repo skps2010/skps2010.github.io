@@ -1,6 +1,9 @@
 ## 說明
 此為教育部臺灣閩南語推薦用字的用字原則，原本可在教育部的網站找到，但現在似乎不行了。由於用字說明的資料檔還存在，我就把他們下載下來自己整理。
 
+以下資料依照字數與台羅的字典序排列。
+
+本網頁由我（盧昭華）製作
 ### 連結
 [【尪】ang](data/275.pdf)  
 [【翁】ang](data/275.pdf)  
@@ -461,9 +464,10 @@
 [【一寡（仔）】tsi̍t-kuá（-á）](data/354.pdf)  
 [【淡薄（仔）】tām-po̍h(-á) ](data/510.pdf)  
 
-
 ### 來源
-資料來源（連結中指向的所有 PDF 檔）皆來自教育部，我並沒有做出任何修改。而此網站皆由我所製作，與教育部無關。  
-本著作係採用創用CC「姓名標示-非商業性-禁止改作」 2.5 臺灣版授權條款釋出。創用CC詳細內容請見: http://creativecommons.org/licenses/by-nc-nd/2.5/tw/
+資料來源（連結中指向的所有 PDF 檔）皆來自教育部，我並沒有做出任何修改。此為原始檔案之一的連結：https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia468pdf.pdf  
+字體是使用台灣宋體。而此網站皆由我（盧昭華）所製作，與教育部無關。
 
-字體是使用台灣宋體，作者為烏衣行，來源： www.wesingkasu.blogspot.tw
+本著作係採用創用CC「姓名標示-非商業性-禁止改作」 2.5 臺灣版授權條款釋出。創用 CC 詳細內容請見：http://creativecommons.org/licenses/by-nc-nd/2.5/tw/
+
+字體是使用台灣宋體，作者為烏衣行，來源：www.wesingkasu.blogspot.tw
