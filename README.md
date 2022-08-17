@@ -469,6 +469,9 @@
 資料來源（連結中指向的所有 PDF 檔）皆來自教育部，我並沒有做出任何修改。此為原始檔案之一的連結：https://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia468pdf.pdf  
 字體是使用台灣宋體。而此網站皆由我（盧昭華）所製作，與教育部無關。
 
+後來與教育部通信，發現原來資源都在這裡：https://twblg.dict.edu.tw/holodict_new/download_5.jsp  
+不過由於該網站十分難找，本網站將持續留存。
+
 本著作係採用創用CC「姓名標示-非商業性-禁止改作」 2.5 臺灣版授權條款釋出。創用 CC 詳細內容請見：http://creativecommons.org/licenses/by-nc-nd/2.5/tw/
 
 字體是使用台灣宋體，作者為烏衣行，來源：www.wesingkasu.blogspot.tw
